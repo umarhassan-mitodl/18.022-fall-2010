@@ -31,10 +31,10 @@ Any of the following courses at MIT will prepare you for 18.022:
 
 - [_18.01 Calculus_](/courses/18-01sc-single-variable-calculus-fall-2010)
 - [_18.014 Calculus with Theory_](/courses/18-014-calculus-with-theory-fall-2010)
-- {{% resource_link "50a51114-d2c4-472d-b875-2cb181af17ba" "_18.01A Calculus_" %}}
-- {{% resource_link "701f8a88-813c-402e-9cc2-d27f94f3eb63" "_CC.181A Calculus_" %}}
-- {{% resource_link "84aa1d11-32ce-4646-83ac-1b02c3d97771" "_ES.1801 Calculus_" %}}
-- {{% resource_link "b55ccb61-31ce-489a-95ab-c69f33e56191" "_ES.181A Calculus_" %}}
+- [_18.01A Calculus_](http://student.mit.edu/catalog/m18a.html#18.01A)
+- [_CC.181A Calculus_](http://student.mit.edu/catalog/mCCa.html#CC.181A)
+- [_ES.1801 Calculus_](http://student.mit.edu/catalog/mESa.html#ES.1801)
+- [_ES.181A Calculus_](http://student.mit.edu/catalog/mESa.html#ES.181A)
 
 ### Requirements Satisfied
 

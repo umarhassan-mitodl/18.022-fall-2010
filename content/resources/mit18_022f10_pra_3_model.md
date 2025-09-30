@@ -4,6 +4,8 @@ description: 'This resource contains solution to practice exam 3. '
 file: /courses/18-022-calculus-of-several-variables-fall-2010/441eaee9e3aac9bd137b5f728e3ebe98_MIT18_022F10_pra_3_model.pdf
 file_size: 788117
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
