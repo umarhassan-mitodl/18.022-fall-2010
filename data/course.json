@@ -30,8 +30,7 @@
     "website": "18-022-calculus-of-several-variables-fall-2010"
   },
   "course_title": "Calculus of Several Variables",
-  "hide_download": true,
-  "course_description": "This is a variation on [*18.02 Multivariable Calculus*](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/). It covers the same topics as in 18.02, but with more focus on mathematical concepts.\n\nAcknowledgement\n\nProf. McKernan would like to acknowledge the contributions of Lars Hesselholt to the development of this course.",
+  "course_description": "This is a variation on {{% resource_link \"b84df2ed-d6ee-4cf9-808a-62601cef7926\" \"*18.02 Multivariable Calculus*\" %}}. It covers the same topics as in 18.02, but with more focus on mathematical concepts.\n\nAcknowledgement\n\nProf. McKernan would like to acknowledge the contributions of Lars Hesselholt to the development of this course.",
   "department_numbers": [
     "18"
   ],
@@ -41,7 +40,6 @@
     "content": "221ef5f8-9e2e-f11b-39d2-da95011faa69",
     "website": "18-022-calculus-of-several-variables-fall-2010"
   },
-  "hide_download_original": null,
   "learning_resource_types": [
     "Problem Sets with Solutions",
     "Exams with Solutions",
