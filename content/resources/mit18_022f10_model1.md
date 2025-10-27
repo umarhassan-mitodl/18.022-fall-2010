@@ -5,8 +5,6 @@ description: This resource contains solutions for the problem statements related
 file: /courses/18-022-calculus-of-several-variables-fall-2010/e6ff853acae59fd33d219b2f245c217a_MIT18_022F10_model1.pdf
 file_size: 104298
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: 'This resource contains practice final exam. '
 file: /courses/18-022-calculus-of-several-variables-fall-2010/853ba56f6a9528625d0c371e31c15b12_MIT18_022F10_prft.pdf
 file_size: 159442
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Exams
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

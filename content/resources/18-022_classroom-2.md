@@ -4,8 +4,6 @@ description: ''
 file: /courses/18-022-calculus-of-several-variables-fall-2010/10650621c5f93d001603175fff9fb38f_18-022_classroom-2.jpg
 file_size: 59893
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
